@@ -32,4 +32,4 @@ npm start
 
 It should open the app on your default browser. If it doesn't happen, open http://localhost:3000.
 
-
+![screenshot](https://github.com/felsangom/TicTacToe/blob/master/screenshots/1.png)
